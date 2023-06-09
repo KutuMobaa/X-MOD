@@ -1,0 +1,7 @@
+id=X_MOD
+name=X-MOD
+version=V 6.2
+versionCode=20
+author= Kutu Moba
+description= Governor Cpu Dan Gpu, I/O Scheduler, Zram, Thermal extreme & Strandar, Close App, game features, change screen resolution, Clean Cache. ( no tweaks, the choice depends on your device and kernel )
+updateJson=https://github.com/KutuMobaa/X-MOD/blob/main/update.json
