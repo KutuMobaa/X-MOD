@@ -14,7 +14,7 @@ I/O Dapat Disesuaikan Sesuai keinginan Pengguna Berdasarkan I/O Yang Tersedia Di
 
 ##### Cara Setting :
 
-* su <enter> xmod <enter>
+* su (enter) xmod (enter)
 * su -c xmod
 
 #####
