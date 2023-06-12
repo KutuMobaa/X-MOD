@@ -36,7 +36,11 @@ I/O Dapat Disesuaikan Sesuai keinginan Pengguna Berdasarkan I/O Yang Tersedia Di
 
 * Merubah Governor Cpu Dan Gpu Sesuai Keinginan Pengguna Berdasarkan Kernel
 
-* Disable Thermal 
+* Disable Thermal :
+```
+   - Disable Thermal xtreme
+   - Disable Thermal Normal
+```
 
 * Clean Cache ( include fs-trim )
 
