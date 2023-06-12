@@ -30,4 +30,38 @@ I/O Dapat Disesuaikan Sesuai keinginan Pengguna Berdasarkan I/O Yang Tersedia Di
 
 #### without any build.prop tweaks, the choice depends on your device and kernel
 
+#### Semua Fitur X-MOD
 
+* Merubah Governor Cpu Dan Gpu Sesuai Keinginan Pengguna Berdasarkan Kernel
+
+* Disable Thermal 
+
+* Clean Cache ( include fs-trim )
+
+* Close App 
+
+* Pilihan Zram:
+```
+   - 2 Gb
+   - 3 Gb
+   - 4 Gb
+```
+* Merubah Resolusi Layar Sesuai Keinginan Pengguna, Suport Ratio :
+```
+   - 16:9
+   - 16.5:9
+   - 19:9
+   - 18:9
+```
+* Fitur Game
+   - Memfokuskan Kinerja Android Untuk Aplikasi Game Yang Di Tentukan Sesuai Keinginan Pengguna 
+
+* Fitur I/O Scheduler 
+```
+    I/O Schedul Untuk Meningkatkan Performa Yang         Lebih Baik Disaat Bermain Game.
+    I/O Dapat Disesuaikan Sesuai keinginan Pengguna       Berdasarkan I/O Yang Tersedia Didalam Kernel
+```
+#####
+
+* Silahkan Nikmati Module Magisk X-MOD Sesuai Kebutuhan 
+ * Jika Perlu, Tambahkan Module Magisk Yang Mengandalkan Kode Kode  Tweaks build.prop
