@@ -1,5 +1,7 @@
 UPDATE MODULE MAGISK :
 
+#### X-MOD Module Magisk V6.2 :
+
 * Menambahkan Pilihan Pada Fitur Thermal, Sekarang Pengguna Dapat Memilih Menggunakan Thermal Extreme Atau Standar.
 
 * Menambahkan Fitur I/O Scheduler Untuk Meningkatkan Performa Yang Lebih Baik Disaat Bermain Game.
@@ -30,7 +32,7 @@ I/O Dapat Disesuaikan Sesuai keinginan Pengguna Berdasarkan I/O Yang Tersedia Di
 
 #### without any build.prop tweaks, the choice depends on your device and kernel
 
-#### Semua Fitur X-MOD
+#### Semua Fitur X-MOD Module Magisk V6.2
 
 * Merubah Governor Cpu Dan Gpu Sesuai Keinginan Pengguna Berdasarkan Kernel
 
