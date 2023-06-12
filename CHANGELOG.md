@@ -24,7 +24,7 @@ I/O Dapat Disesuaikan Sesuai keinginan Pengguna Berdasarkan I/O Yang Tersedia Di
 #####
 
 * User Exynos Kemungkinan Tidak Dapat Menggunakan Module Ini
-* User Ginkgo Kemungkinan Tidak Dapat Menggunakan Fitur I/O Schedule
+* User Ginkgo & whyred Kemungkinan Tidak Dapat Menggunakan Fitur I/O Schedule
 
 * Hanya kemungkinan 😁😁😁, silahkan tes dan laporkan
 
