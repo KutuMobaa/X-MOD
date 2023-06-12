@@ -45,6 +45,10 @@ I/O Dapat Disesuaikan Sesuai keinginan Pengguna Berdasarkan I/O Yang Tersedia Di
 * Clean Cache ( include fs-trim )
 
 * Close App 
+```
+   - Disable App ( Menggunakan List )
+   - Close App ( Otomatis )
+```
 
 * Pilihan Zram:
 ```
