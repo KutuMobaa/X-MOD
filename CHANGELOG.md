@@ -1,5 +1,7 @@
 UPDATE MODULE MAGISK :
 
+[Download](https://github.com/KutuMobaa/X-MOD/releases/download/X-MOD/X-MOD.Module.Magisk.V6.2.zip)
+
 #### X-MOD Module Magisk V6.2 :
 
 * Menambahkan Pilihan Pada Fitur Thermal, Sekarang Pengguna Dapat Memilih Menggunakan Thermal Extreme Atau Standar.
