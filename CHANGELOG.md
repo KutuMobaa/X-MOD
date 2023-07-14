@@ -24,8 +24,7 @@ I/O Dapat Disesuaikan Sesuai keinginan Pengguna Berdasarkan I/O Yang Tersedia Di
 * su -c xmod
 
 #####
-
-* User Exynos Kemungkinan Tidak Dapat Menggunakan Module Ini
+* Kemungkinan Tidak Bisa Digunakan Di Device Samsung.
 * User Ginkgo & whyred Kemungkinan Tidak Dapat Menggunakan Fitur I/O Schedule
 
 * Hanya kemungkinan 😁😁😁, silahkan tes dan laporkan
