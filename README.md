@@ -1,7 +1,7 @@
 # X-MOD
 
 *Module Magisk X-MOD: set android performance according to kernel capabilities*
-#
+##
 
 Anda Mengunjungi Github
 * https://github.com/KutuMobaa/X-MOD
